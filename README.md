@@ -44,5 +44,5 @@ The dataset used in this project is the Titanic passenger dataset, which contain
 
 ## Author
 Amir Ali Hossaini
-Created as a data analytics portfolio project.
+Created as a data analysis portfolio project.
 
