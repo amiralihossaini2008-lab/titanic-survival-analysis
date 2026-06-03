@@ -17,7 +17,21 @@ This project analyzes the Titanic passenger dataset to explore factors that infl
 * SQL
 * Microsoft Excel
 
-## Dataset
+## Data Cleaning
+
+The original Titanic dataset contained missing values that required preprocessing before analysis.
+
+The following cleaning steps were performed using Python and Pandas:
+
+1. Loaded the dataset and inspected its structure.
+2. Checked for missing values across all columns.
+3. Removed the `Cabin` column due to a large number of missing values.
+4. Filled missing values in the `Age` column using the median age.
+5. Removed rows with missing values in the `Embarked` column.
+6. Created a new `Family_Size` feature using the `SibSp` and `Parch` columns.
+7. Exported the cleaned dataset as `titanic_clean.csv`.
+8. Verified that no missing values remained in the cleaned dataset.
+
 
 The dataset used in this project is the Titanic passenger dataset, which contains demographic and travel information for passengers aboard the RMS Titanic.
 
