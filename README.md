@@ -23,6 +23,8 @@ The dataset used in this project is the Titanic passenger dataset, which contain
 
 ## Project Files
 
+## Project Files
+
 | File                  | Description                           |
 | --------------------- | ------------------------------------- |
 | titanic.csv           | Original dataset                      |
