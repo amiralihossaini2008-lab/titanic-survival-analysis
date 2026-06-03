@@ -21,8 +21,6 @@ This project analyzes the Titanic passenger dataset to explore factors that infl
 
 The dataset used in this project is the Titanic passenger dataset, which contains demographic and travel information for passengers aboard the RMS Titanic.
 
-## Files
-
 ## Project Files
 
 | File                  | Description                           |
