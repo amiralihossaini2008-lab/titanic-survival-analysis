@@ -38,9 +38,15 @@ The dataset used in this project is the Titanic passenger dataset, which contain
 
 ## Files
 
-* cleaned_titanic.csv
-* sql_queries.sql
-* analysis_report.xlsx
+## Project Files
+
+| File                  | Description                           |
+| --------------------- | ------------------------------------- |
+| titanic.csv           | Original dataset                      |
+| titanic_clean.csv     | Cleaned dataset used for analysis     |
+| Titanic_clean.ipynb   | Data cleaning notebook                |
+| queries.sql           | SQL analysis queries                  |
+| titanic_analysis.xlsx | Excel pivot tables and visualizations |
 
 ## Author
 Amir Ali Hossaini
