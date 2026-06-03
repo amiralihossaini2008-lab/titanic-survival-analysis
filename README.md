@@ -32,10 +32,14 @@ The following cleaning steps were performed using Python and Pandas:
 7. Exported the cleaned dataset as `titanic_clean.csv`.
 8. Verified that no missing values remained in the cleaned dataset.
 
+## Key Findings
 
-The dataset used in this project is the Titanic passenger dataset, which contains demographic and travel information for passengers aboard the RMS Titanic.
-
-## Project Files
+* The overall survival rate was 38.00%.
+* Female passengers had a survival rate of 74.04%, compared to 18.89% for males.
+* First-class passengers had the highest survival rate (62.62%), while third-class passengers had the lowest (24.24%).
+* Children survived more often than adults, with survival rates of 53.98% and 35.95%, respectively.
+* Passengers traveling in small families generally had higher survival rates than those traveling alone or in very large groups.
+* First-class women had the highest survival rate (96.74%), while third-class men had the lowest (13.54%).
 
 ## Project Files
 
