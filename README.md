@@ -14,7 +14,7 @@ This project analyzes the Titanic passenger dataset to explore factors that infl
 ## Tools Used
 
 * Python (Pandas)
-* SQL
+* PostgreSQL
 * Microsoft Excel
 
 ## Dataset
