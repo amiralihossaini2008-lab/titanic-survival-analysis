@@ -7,7 +7,7 @@ This project analyzes the Titanic passenger dataset to explore factors that infl
 ## Objectives
 
 * Clean and prepare the dataset using Python.
-* Analyse passenger data using SQL.
+* Analyze passenger data using SQL.
 * Create visualizations and summaries using Excel.
 * Identify patterns related to survival rates.
 
