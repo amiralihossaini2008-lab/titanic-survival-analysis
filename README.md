@@ -17,6 +17,10 @@ This project analyzes the Titanic passenger dataset to explore factors that infl
 * SQL
 * Microsoft Excel
 
+## Dataset
+
+The dataset used in this project is the Titanic passenger dataset, containing demographic, ticket, and survival information for passengers aboard the RMS Titanic.
+
 ## Data Cleaning
 
 The original Titanic dataset contained missing values that required preprocessing before analysis.
